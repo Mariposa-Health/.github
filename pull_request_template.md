@@ -30,6 +30,10 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 
 Please list any relevant configurations/environment variables needed to run the above described tests.
 
+# How should this be deployed?
+
+Please list any configuration changes (secrets, environment variables, etc.) needed to occur when this code is deployed. This can be copied directly from the Jira ticket if the deployment notes there are comprehensive enough.
+
 # Checklist:
 
 - [ ] My code follows the Plume Eng style guidelines
