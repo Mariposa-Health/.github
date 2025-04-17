@@ -23,3 +23,13 @@
 
 # How should this be deployed?
 <!-- Please list any configuration changes (secrets, environment variables, etc.) needed to occur when this code is deployed. This can be copied directly from the Jira ticket if the deployment notes there are comprehensive enough. -->
+
+<!-- Please uncomment this section if your PR includes a data migration.
+
+# Data migration checklist:
+
+- [ ] My script validates any assumptions about input data
+- [ ] My script performs writes atomically
+- [ ] My script doesn't rely on downstream side effects
+
+-->
